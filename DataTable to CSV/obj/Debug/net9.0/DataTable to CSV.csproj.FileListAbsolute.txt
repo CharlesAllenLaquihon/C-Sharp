@@ -1,0 +1,15 @@
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\bin\Debug\net9.0\DataTable to CSV.exe
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\bin\Debug\net9.0\DataTable to CSV.deps.json
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\bin\Debug\net9.0\DataTable to CSV.runtimeconfig.json
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\bin\Debug\net9.0\DataTable to CSV.dll
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\bin\Debug\net9.0\DataTable to CSV.pdb
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.AssemblyInfoInputs.cache
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.AssemblyInfo.cs
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.csproj.CoreCompileInputs.cache
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.sourcelink.json
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.dll
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\refint\DataTable to CSV.dll
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.pdb
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\DataTable to CSV.genruntimeconfig.cache
+C:\Users\laqui\Desktop\Projects\C-Sharp\DataTable to CSV\obj\Debug\net9.0\ref\DataTable to CSV.dll

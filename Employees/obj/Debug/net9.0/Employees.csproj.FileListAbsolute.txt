@@ -1,0 +1,15 @@
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.AssemblyInfoInputs.cache
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.AssemblyInfo.cs
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.sourcelink.json
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\bin\Debug\net9.0\Employees.exe
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\bin\Debug\net9.0\Employees.deps.json
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\bin\Debug\net9.0\Employees.runtimeconfig.json
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\bin\Debug\net9.0\Employees.dll
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\bin\Debug\net9.0\Employees.pdb
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.dll
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\refint\Employees.dll
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.pdb
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\Employees.genruntimeconfig.cache
+C:\Users\laqui\Desktop\Projects\C-Sharp\Employees\obj\Debug\net9.0\ref\Employees.dll

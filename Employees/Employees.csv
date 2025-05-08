@@ -1,0 +1,31 @@
+﻿EmployeeID,Name,Department,Salary,Skills,ExperienceYears
+101,John Doe,Engineering,75000,C#;SQL;Azure,5
+102,Jane Smith,Marketing,68000,SEO;Content Writing;Social Media,3
+103,Tom Brown,Engineering,82000,C#;Java;Python,7
+104,Susan Davis,HR,60000,Recruitment;Conflict Resolution,4
+105,Mike Wilson,Engineering,79000,Python;Azure;DevOps,6
+106,Linda White,Finance,71000,Accounting;Excel;Budgeting,5
+107,Kevin Lee,Engineering,85000,Java;Spring;Kubernetes,8
+108,Nina Patel,Marketing,69000,Email Marketing;SEO;Analytics,4
+109,Oliver King,HR,61000,Training;Onboarding;Recruitment,3
+110,Ava Brooks,Engineering,83000,C++;Embedded Systems;IoT,6
+111,Ethan Ray,IT,72000,Networking;Security;Linux,5
+112,Grace Hill,Finance,75000,Auditing;Reporting;Excel,6
+113,Noah Scott,Engineering,88000,Python;C#;Cloud,9
+114,Chloe Green,Marketing,67000,Copywriting;Design;Content Strategy,3
+115,Liam Adams,Engineering,77000,Go;Docker;AWS,4
+116,Sophia Evans,Finance,78000,Tax;Compliance;Excel,7
+117,Mason Reed,HR,62000,Employee Relations;Policy,5
+118,Emily Stone,Marketing,70000,Campaigns;SEO;Branding,4
+119,Logan Clark,Engineering,81000,Node.js;React;MongoDB,5
+120,Isabella Lewis,IT,73000,Cloud;Azure;Powershell,6
+121,Lucas Price,Engineering,76500,C#;SQL Server;Microservices,5
+122,Amelia Foster,Marketing,69500,Social Media;Video Editing,3
+123,Elijah Hayes,HR,60000,Benefits;Compliance;HRIS,4
+124,Aria Mitchell,Finance,72500,Investment;Analysis;Excel,6
+125,James Cooper,Engineering,84500,Python;Flask;PostgreSQL,7
+126,Mila Turner,IT,71000,DevOps;Kubernetes;CI/CD,4
+127,Henry Rogers,Engineering,80000,JavaScript;Node.js;AWS,6
+128,Ella Watson,Marketing,71500,Email Campaigns;SEO,5
+129,Alexander Ward,Finance,76500,Accounting;Forecasting;ERP,5
+130,Abigail Bennett,HR,60500,HR Analytics;Recruitment;Payroll,3
